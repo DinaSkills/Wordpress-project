@@ -1,0 +1,9 @@
+Wordpress theme
+
+Used blank theme to set custom theme tamplate.
+
+Zipped theme add to theme in wordpress.
+
+In theme:
+Custom themplate for Movies.
+

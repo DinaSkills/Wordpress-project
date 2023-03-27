@@ -1,0 +1,8 @@
+Pull form git repository to your local server.
+Client uses curl library for setup visit https://curl.se/
+CLient works on localhost if you want to test it with https protokol need to set:
+
+CURLOPT_SSL_VERIFYHOST  => 2,
+CURLOPT_SSL_VERIFYPEER => 2,
+
+

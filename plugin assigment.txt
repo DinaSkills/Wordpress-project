@@ -1,0 +1,10 @@
+Pull project from git repository
+zip file 
+
+In wordpress zipped file upload to plugins. 
+
+Plugin contains:
+Custom post type 
+Api for the custom post type
+And meta box
+
